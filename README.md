@@ -1,8 +1,8 @@
 # 2D Platformer Survival Game
 
 ### About
-- Created a 2D platformer game where the user navigates a character through a challenging environment, avoiding various ground and flying enemies to survive as long as possible.
-- Implemented gameplay mechanics including player movement, collision detection, gravity-based jumping, AI-driven enemy behaviour, menu interface and survival timer for score tracking.
+- A 2D platformer game where the user navigates a character through a challenging environment, avoiding various ground and flying enemies to survive as long as possible.
+- Includes gameplay mechanics such as player movement, collision detection, gravity-based jumping, AI-driven enemy behaviour, menu interface and survival timer for score tracking.
 
 ### Demo Photo
 
